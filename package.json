@@ -2,8 +2,8 @@
   "name": "webpack",
   "description": "Include Bootstrap's source Sass and individual JavaScript plugins with Webpack.",
   "version": "0.0.0",
-  "private": true,
-  "repository": "twbs/examples",
+  "private": false,
+  "repository": "https://github.com/IKIL-Workspace/BLC-Webpack",
   "license": "MIT",
   "stackblitz": {
     "startCommand": "npm start"
